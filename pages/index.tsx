@@ -134,6 +134,28 @@ const Home: NextPage = () => {
           <li>Asana</li>
           <li>Trello</li>
         </ul>
+
+        <h2>Contact</h2>
+        <ul>
+          <li>
+            <a
+              className={styles.link}
+              href="https://www.facebook.com/ara.keisuke/"
+            >
+              Facebook
+            </a>
+          </li>
+          <li>
+            <a className={styles.link} href="https://twitter.com/This_is_4R4">
+              Twitter
+            </a>
+          </li>
+          <li>
+            <a className={styles.link} href="https://github.com/ara-k">
+              Github
+            </a>
+          </li>
+        </ul>
       </main>
 
       <footer className={styles.footer}>
