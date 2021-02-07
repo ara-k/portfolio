@@ -133,6 +133,8 @@ const Home: NextPage = () => {
           <li>ClickUp</li>
           <li>Asana</li>
           <li>Trello</li>
+          <li>Sketch</li>
+          <li>Figma</li>
         </ul>
 
         <h2>Contact</h2>
